@@ -15,4 +15,5 @@ Question2:
 [Multiplied list](https://code.earthengine.google.com/32288a43753d8b01a7ba26fb94f51b78)
 
 question 3:
+Upload upazila boundary shape file of Bangladesh to GEE asset tab. Filter out your desired upazila, and print the area, and perimeter of your upazila. Finally, show your upazila in the map. Take a screenshot of the map. Upload the screenshot, GEE code link in your github repo. Submit your repo link. -5
 [map](https://code.earthengine.google.com/f0076c2aa8f573b0560671e3a9540469)
