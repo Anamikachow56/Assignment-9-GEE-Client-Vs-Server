@@ -15,4 +15,4 @@ Question2:
 [Multiplied list](https://code.earthengine.google.com/32288a43753d8b01a7ba26fb94f51b78)
 
 question 3:
-[map](https://code.earthengine.google.com/bf05dbeea722ad09a0b9df0f14011b09)
+[map](https://code.earthengine.google.com/f0076c2aa8f573b0560671e3a9540469)
